@@ -21,7 +21,7 @@ Criar um sistema para um banco digital fictício, capaz de:
 - Simulação de entradas e saídas
 - Lógica de programação aplicada a regras de negócio
 
-##🧠 Projeto da DIO
+## 🧠 Projeto da DIO
 
 Este projeto foi proposto pela Digital Innovation One como um dos desafios práticos para fixação de conteúdo, reforçando a lógica de programação por meio da construção de soluções reais e aplicáveis ao mercado de tecnologia.
 
