@@ -23,5 +23,9 @@ Criar um sistema para um banco digital fictício, capaz de:
 
 ## 🧠 Projeto da DIO
 
-Este projeto foi proposto pela Digital Innovation One como um dos desafios práticos para fixação de conteúdo, reforçando a lógica de programação por meio da construção de soluções reais e aplicáveis ao mercado de tecnologia.
+Projeto desenvolvido durante o curso da [Digital Innovation One (DIO)](https://www.dio.me/).
+
+[![DIO](https://img.shields.io/badge/Powered%20by-DIO-%237734BE?style=for-the-badge)](https://www.dio.me/)
+
+Este projeto foi proposto pela **Digital Innovation One** como um dos desafios práticos para fixação de conteúdo, reforçando a lógica de programação por meio da construção de soluções reais e aplicáveis ao mercado de tecnologia.
 
